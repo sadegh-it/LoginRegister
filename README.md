@@ -18,8 +18,8 @@
 <table>
   <tr>
     <td>
-      <p align="center">Splash Screen</p>
-      <img src="screenshots/splash.png" width="300">
+      <p align="center">Register Screen</p>
+      <img src="screenshots/register.png" width="300">
     </td>
     <td>
       <p align="center">Login Screen</p>
@@ -28,8 +28,8 @@
   </tr>
   <tr>
     <td>
-      <p align="center">Register Screen</p>
-      <img src="screenshots/register.png" width="300">
+      <p align="center">Splash Screen</p>
+      <img src="screenshots/splash.png" width="300">
     </td>
     <td>
       <p align="center">Posts Screen</p>
