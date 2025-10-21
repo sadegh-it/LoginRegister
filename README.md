@@ -16,12 +16,18 @@
 
 ---
 
-## Screenshots
+### Splash Screen
+<img src="screenshots/splash.png" width="300">
 
-![Splash Screen](screenshots/splash.png)  
-![Login Screen](screenshots/login.png)  
-![Register Screen](screenshots/register.png)  
-![Posts Screen](screenshots/posts.png)
+### Login Screen
+<img src="screenshots/login.png" width="300">
+
+### Register Screen
+<img src="screenshots/register.png" width="300">
+
+### Posts Screen
+<img src="screenshots/posts.png" width="300">
+
 
 ---
 
@@ -29,4 +35,4 @@
 
 1. کلون کردن پروژه:
 ```bash
-git clone https://github.com/USERNAME/LoginRegister.git
+git clone https://github.com/sadegh-it/LoginRegister.git
