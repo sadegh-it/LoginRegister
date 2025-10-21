@@ -44,7 +44,8 @@
 
 
 ---
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadegh-it)
+---
 ## نصب و اجرا
 
 1. کلون کردن پروژه:
