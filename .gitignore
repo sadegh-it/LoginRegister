@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6c972572c1c7a977b6a8cce42b215f014d9c37b0
 # Gradle files
 .gradle/
 build/
@@ -33,6 +36,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+<<<<<<< HEAD
 =======
 *.iml
 .gradle
@@ -50,3 +54,5 @@ google-services.json
 .cxx
 local.properties
 >>>>>>> 5abbd53 (my log)
+=======
+>>>>>>> 6c972572c1c7a977b6a8cce42b215f014d9c37b0
