@@ -17,16 +17,13 @@
 ---
 
 ### Splash Screen
-<img src="screenshots/splash.png" width="300">
-
-### Login Screen
-<img src="screenshots/login.png" width="300">
+<img src="screenshots/splash.png" width="300">   ### Login Screen  <img src="screenshots/login.png" width="300">
 
 ### Register Screen
-<img src="screenshots/register.png" width="300">
+<img src="screenshots/register.png" width="300">     ### Posts Screen    <img src="screenshots/posts.png" width="300">
 
-### Posts Screen
-<img src="screenshots/posts.png" width="300">
+
+
 
 
 ---
