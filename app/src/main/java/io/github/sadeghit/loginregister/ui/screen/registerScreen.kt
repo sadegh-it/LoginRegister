@@ -106,7 +106,7 @@ fun RegisterScreen(
                 colors = TextFieldDefaults.colors(
                     focusedIndicatorColor = Color.Transparent,
                     unfocusedIndicatorColor = Color.Transparent,
-                ), modifier = Modifier.width(400.dp)
+                ), modifier = Modifier.width(300.dp)
 
             )
             Spacer(modifier = Modifier.height(20.dp))
@@ -131,7 +131,7 @@ fun RegisterScreen(
                 colors = TextFieldDefaults.colors(
                     focusedIndicatorColor = Color.Transparent,
                     unfocusedIndicatorColor = Color.Transparent,
-                ), modifier = Modifier.width(400.dp)
+                ), modifier = Modifier.width(300.dp)
 
             )
             Spacer(modifier = Modifier.height(30.dp))
