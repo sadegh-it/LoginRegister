@@ -106,7 +106,9 @@ fun RegisterScreen(
                 colors = TextFieldDefaults.colors(
                     focusedIndicatorColor = Color.Transparent,
                     unfocusedIndicatorColor = Color.Transparent,
-                ), modifier = Modifier.width(400.dp)
+                    errorIndicatorColor = Color.Transparent,
+                    disabledIndicatorColor = Color.Transparent
+                ), modifier = Modifier.width(300.dp)
 
             )
             Spacer(modifier = Modifier.height(20.dp))
@@ -131,7 +133,9 @@ fun RegisterScreen(
                 colors = TextFieldDefaults.colors(
                     focusedIndicatorColor = Color.Transparent,
                     unfocusedIndicatorColor = Color.Transparent,
-                ), modifier = Modifier.width(400.dp)
+                    errorIndicatorColor = Color.Transparent,
+                    disabledIndicatorColor = Color.Transparent
+                ), modifier = Modifier.width(300.dp)
 
             )
             Spacer(modifier = Modifier.height(30.dp))
@@ -158,7 +162,7 @@ fun RegisterScreen(
                 onClick = { viewModel.register(username, password) },
                 enabled = isChecked,
                 modifier = Modifier
-                    .width(300.dp)
+                    .width(200.dp)
                     .border(
                         width = 1.dp,
                         color = if (isChecked) Color.White else Color.Gray,
