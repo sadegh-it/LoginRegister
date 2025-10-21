@@ -15,12 +15,29 @@
 - طراحی مدرن با **Material 3**
 
 ---
+<table>
+  <tr>
+    <td>
+      <p align="center">Splash Screen</p>
+      <img src="screenshots/splash.png" width="300">
+    </td>
+    <td>
+      <p align="center">Login Screen</p>
+      <img src="screenshots/login.png" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">Register Screen</p>
+      <img src="screenshots/register.png" width="300">
+    </td>
+    <td>
+      <p align="center">Posts Screen</p>
+      <img src="screenshots/posts.png" width="300">
+    </td>
+  </tr>
+</table>
 
-### Splash Screen
-<img src="screenshots/splash.png" width="300">   ### Login Screen  <img src="screenshots/login.png" width="300">
-
-### Register Screen
-<img src="screenshots/register.png" width="300">     ### Posts Screen    <img src="screenshots/posts.png" width="300">
 
 
 
